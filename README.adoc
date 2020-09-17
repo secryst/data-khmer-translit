@@ -1,0 +1,12 @@
+= Secryst training data for Khmer transliteration
+
+== Purpose
+
+Transliteration of Khmer to Latin.
+
+== Origin
+
+Data origin:
+
+* https://viblo.asia/p/nlp-khmer-word-segmentation-YWOZrgNNlQ0
+* https://viblo.asia/p/nlp-khmer-romanization-using-seq2seq-m68Z07OQKkG
